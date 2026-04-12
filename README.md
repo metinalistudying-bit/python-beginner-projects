@@ -1,12 +1,12 @@
 # Python Projects
 
-A collection of beginner-level Python projects built to strengthen my understanding of core programming fundamentals.
+A collection of Python projects built while developing my programming skills.
 
 ## Projects Focus
 - User input handling
 - Conditional statements
 - Loops
-- Basic functions
+- Functions
 - Simple program logic
 - Clean terminal interaction
 
@@ -14,7 +14,6 @@ A collection of beginner-level Python projects built to strengthen my understand
 
 ### 1. Calculator
 A simple command-line calculator that performs basic arithmetic operations.
-- Addition, Subtraction, Multiplication, Division
 - Concepts: `if / elif / else`, floating-point numbers, basic arithmetic
 
 ### 2. Number Guessing Game
@@ -45,21 +44,24 @@ A pizza ordering system with size and topping pricing.
 A bill splitting calculator with tip percentage.
 - Concepts: float formatting, arithmetic, f-strings
 
+### 9. Hangman
+A classic Hangman word guessing game with ASCII art and a lives system.
+- Concepts: multiple files, imports, game loops, string manipulation, ASCII art
+
 ## 🎯 Purpose
 Building a strong Python foundation before moving on to more advanced concepts such as:
 - Object-Oriented Programming
 - APIs
 - Web development
-- Backend systems
+- Cybersecurity scripting
 - Data structures and algorithms
 
 ## 🚀 Next Steps
 - Better input validation across all projects
-- Case-insensitive input handling
 - Code refactoring into functions
 - Combining projects into a menu-based CLI application
-- Adding more structured project organization
+- Moving into intermediate Python — OOP, APIs, automation
 
 ## 📌 About Me
 Building my programming foundation with a long-term goal of working in Cybersecurity and Software Development.
-This repository reflects my early learning stage and commitment to consistent improvement.
+This repository reflects my learning journey and commitment to consistent improvement.
